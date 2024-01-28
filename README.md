@@ -27,7 +27,6 @@ Clone this repository and install the required Python packages:
 ```bash
 git clone [repository URL]
 cd [repository directory]
-pip install -r requirements.txt
 ```
 
 ### Usage
